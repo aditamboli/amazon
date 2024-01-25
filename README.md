@@ -1,2 +1,2 @@
 # amazon
-amazon website created
+This is an Amazon clone webpage uusing html and css.
